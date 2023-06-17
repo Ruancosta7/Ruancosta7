@@ -1,4 +1,4 @@
- Olá, me chamo ruan costa, estudante de Análise e Desenvolvimento de Sistemas
+ Olá, me chamo ruan costa, estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvo pequenos projetos front-end de nível iniciante.
 - Interesse em atuar como Programador Front-End
 - Atualmente estudando Programação WEB
 
